@@ -1,0 +1,8 @@
+{
+"flags": "-HanroE",
+  "pattern": [
+    "var [a-z0-9_]+\\=.",
+    "let [a-z0-9_]+\\=.",
+    "const [a-z0-9_]+\\=."
+  ]
+}
